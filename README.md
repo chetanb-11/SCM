@@ -1,3 +1,3 @@
 # SCM
 
-pulled and pushed succesfully
+pulled and pushed succesfully!
